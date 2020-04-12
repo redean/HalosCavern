@@ -1,0 +1,15 @@
+hsp = 0;
+vsp = 0;
+grv = 0.3;
+walksp = 4;
+jumpsp = -7;
+hasControl = true;
+controller = 0;
+basicAttackCooldown = 15;
+timeUntilNextBasicAttack = 0;
+facingRight = true;
+thrustResourceMax = 50;
+thrustResourceCurrent = 0;
+thrustAcceleration = 0.4;
+thrustRechargeCooldown = 10;
+timeUntilThrustRecharge = 0;
